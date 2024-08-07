@@ -15,3 +15,9 @@ and we query on aws athena**
 5. Aws Glue Catalog
 6. EC2
 7. Apache Kafka
+
+# Dataset Used
+
+**You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
+
+Here is the dataset used in this project **
