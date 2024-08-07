@@ -5,3 +5,4 @@ and build consumer who consume the data and data will be send to s3 after that w
 and we query on aws athena**
 
 # Architecture 
+![Project Architecture](Architecture.jpg)
