@@ -8,10 +8,10 @@ and we query on aws athena**
 ![Project Architecture](Architecture.jpg)
 
 # Technology Used
-*1.Python
-2.Aws
-3.Aws S3
-4.Aws Glue Crewler
-5.Aws Glue Catalog
-6.EC2
-7.Apache Kafka*
+1. Python
+2. Aws
+3. Aws S3
+4. Aws Glue Crewler
+5. Aws Glue Catalog
+6. EC2
+7. Apache Kafka
