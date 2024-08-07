@@ -18,7 +18,7 @@ and we query on aws athena**
 
 # Dataset Used
 
-**You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
+You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
 
-Here is the dataset used in this project**
-[GitHub Pages](https://github.com/MEHBOOBAHMED966/Stock-Market-Realtime-Kafka-Data-Engineering-Project/blob/main/indexProcessed.csv)
+Here is the dataset used in this project
+[GitHub Pages],(https://github.com/MEHBOOBAHMED966/Stock-Market-Realtime-Kafka-Data-Engineering-Project/blob/main/indexProcessed.csv)
